@@ -1,0 +1,69 @@
+# HyperText Markup Language (HTML)
+HTML is the language used for web documents. It is not a programming language, but rather a markup language 
+(that identifies the meaning, purpose, and structure of text within a document).
+
+
+### HTML History and Development
+* Its roots go back to at least 1980, with [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)‘s project [ENQUIRE](https://en.wikipedia.org/wiki/ENQUIRE). 
+* Actually, the concept of [hypertext](https://en.wikipedia.org/wiki/Hypertext) goes back even further than that. 
+  The concept first appeared in the early 1940s, and was named and demonstrated in the 1960s.
+* In 1989, Lee proposed a new hypertext system based on the ideas of ENQUIRE. This became the first version of what we now call HTML.
+* The specification of HTML is managed by the [World Wide Web Consortium](https://www.w3.org/), 
+  and the [Web Hypertext Application Technology Working Group](https://whatwg.org/) since then.
+* HTML Versions ([in details](https://www.yourhtmlsource.com/starthere/historyofhtml.html)):
+  * HTML 1.0
+  * HTML 2.0
+  * HTML 3.0
+  * HTML 3.2
+  * HTML 4.01
+  * XHTML 1.0
+  * HTML5
+  
+### HTML5
+HTML5 is the latest and most enhanced version of HTML. HTML5 is the next major revision of the HTML standard superseding HTML 4.01, XHTML 1.0, and XHTML 1.1. 
+HTML5 is a standard for structuring and presenting content on the World Wide Web. 
+In this sub-repo, we will discuss the features of HTML5 and how to use it in practice.
+
+
+#### New Features in HTML5
+
+HTML5 introduces a number of new elements and attributes that can help you in building modern websites. Here is a set of some of the most prominent features introduced in HTML5.
+
+* **New Semantic Elements** − These are like `<header>`, `<footer>`, and `<section>`.
+
+* **Forms 2.0** − Improvements to HTML web forms where new attributes have been introduced for <input> tag.
+
+* **Persistent Local Storage** − To achieve without resorting to third-party plugins.
+
+* **WebSocket** − A next-generation bidirectional communication technology for web applications.
+
+* **Server-Sent Events** − HTML5 introduces events which flow from web server to the web browsers and they are called Server-Sent Events (SSE).
+
+* **Canvas** − This supports a two-dimensional drawing surface that you can program with JavaScript.
+
+* **Audio & Video** − You can embed audio or video on your webpages without resorting to third-party plugins.
+
+* **Geolocation** − Now visitors can choose to share their physical location with your web application.
+
+* **Microdata** − This lets you create your own vocabularies beyond HTML5 and extend your web pages with custom semantics.
+
+* **Drag and drop** − Drag and drop the items from one location to another location on the same webpage.
+
+
+
+==========================================================================================
+
+###### References: [[1](https://www.tutorialspoint.com/html5/html5_overview.htm)][[2](https://www.w3schools.com/html/default.asp)][[3](https://www.learn-html.org/)][[4](https://html.com/)]
+
+==========================================================================================
+
+
+
+
+
+
+
+
+
+
+
