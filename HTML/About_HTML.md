@@ -9,6 +9,12 @@ HTML is the language used for web documents. It is not a programming language, b
 * Allowed sharing multimedia elements 
 * Support Geolocation sharing on user approval
 
+
+### The General Rule
+HTML encapsulate contents by tags. For example:   
+``<tagName> Some Content </tagName>``
+
+
 ### HTML History and Development
 * **Created in 1989/1990.**
 * Its roots go back to at least 1980, with [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)‘s project [ENQUIRE](https://en.wikipedia.org/wiki/ENQUIRE). 
