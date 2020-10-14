@@ -1,9 +1,16 @@
 # HyperText Markup Language (HTML)
+
+### What is HTML?
 HTML is the language used for web documents. It is not a programming language, but rather a markup language 
 (that identifies the meaning, purpose, and structure of text within a document).
-
+* HTML is the most basic building block of the Web
+* Allowed publishing and exchanging of scientific  and technical documents
+* Allowed electronic linking of documents via hyperlinks
+* Allowed sharing multimedia elements 
+* Support Geolocation sharing on user approval
 
 ### HTML History and Development
+* **Created in 1989/1990.**
 * Its roots go back to at least 1980, with [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee)‘s project [ENQUIRE](https://en.wikipedia.org/wiki/ENQUIRE). 
 * Actually, the concept of [hypertext](https://en.wikipedia.org/wiki/Hypertext) goes back even further than that. 
   The concept first appeared in the early 1940s, and was named and demonstrated in the 1960s.
@@ -20,7 +27,7 @@ HTML is the language used for web documents. It is not a programming language, b
   * HTML5
   
 ### HTML5
-HTML5 is the latest and most enhanced version of HTML. HTML5 is the next major revision of the HTML standard superseding HTML 4.01, XHTML 1.0, and XHTML 1.1. 
+**HTML5 is the latest and most enhanced version of HTML.** HTML5 is the next major revision of the HTML standard superseding HTML 4.01, XHTML 1.0, and XHTML 1.1. 
 HTML5 is a standard for structuring and presenting content on the World Wide Web. 
 In this sub-repo, we will discuss the features of HTML5 and how to use it in practice.
 
@@ -29,7 +36,7 @@ In this sub-repo, we will discuss the features of HTML5 and how to use it in pra
 
 HTML5 introduces a number of new elements and attributes that can help you in building modern websites. Here is a set of some of the most prominent features introduced in HTML5.
 
-* **New Semantic Elements** − These are like `<header>`, `<footer>`, and `<section>`.
+* **New Semantic Elements** − These are like `<header>`, `<footer>`, and `<section>` and many others.
 
 * **Forms 2.0** − Improvements to HTML web forms where new attributes have been introduced for <input> tag.
 
@@ -53,7 +60,7 @@ HTML5 introduces a number of new elements and attributes that can help you in bu
 
 ==========================================================================================
 
-###### References: [[1](https://www.tutorialspoint.com/html5/html5_overview.htm)][[2](https://www.w3schools.com/html/default.asp)][[3](https://www.learn-html.org/)][[4](https://html.com/)]
+###### References: [[1](https://www.tutorialspoint.com/html5/html5_overview.htm)][[2](https://www.w3schools.com/html/default.asp)][[3](https://www.learn-html.org/)][[4](https://html.com/)][[5](https://developer.mozilla.org/en-US/docs/Web/HTML)]
 
 ==========================================================================================
 
